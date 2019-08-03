@@ -1,6 +1,6 @@
 FROM kkarczmarczyk/node-yarn
 
-# if you're in China, please comment above image and uncomment following image :)
+# if you're in China, please comment above image and uncomment following image :) dsdf
 
 # FROM registry.docker-cn.com/kkarczmarczyk/node-yarn
 
