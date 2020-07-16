@@ -25,7 +25,7 @@
     "koa-favicon": "^2.0.0",
     "koa-send": "^4.1.0",
     "koa-views": "^6.0.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "react": "16.2",
     "react-dom": "16.2",
     "react-redux": "^5.0.6",
